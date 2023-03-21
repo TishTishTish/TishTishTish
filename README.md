@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TishTishTish but you can call me Tish!
 - 👀 I’m interested in technology, programming and game development!
-- 🎮 I enjoy playing games like Assassin's Creed, Uncharted and Tomb Raider!
-- 🌱 I’m currently learning MySQL and Python
+- 🎮 I enjoy playing games like Assassin's Creed, Uncharted and Tomb Raider
+- 🌱 I’m currently learning AI and Machine Learning concepts
 - 📫 How to reach me: LinkedIn (https://www.linkedin.com/in/ahartisha-rajah/)
 
 <!---
